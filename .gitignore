@@ -1,8 +1,11 @@
 web_api/bin/
-web_api/Debug
-web_api/Release
+web_api/obj/
+web_api/Debug/
+web_api/Release/
 
 .idea/.idea.asp_net_postgres_sample.dir/.idea/encodings.xml
 .idea/.idea.asp_net_postgres_sample.dir/.idea/indexLayout.xml
 .idea/.idea.asp_net_postgres_sample.dir/.idea/vcs.xml
 .idea/.idea.asp_net/.idea/workspace.xml
+
+web_api/appsettings.Development.json
