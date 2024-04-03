@@ -3,7 +3,7 @@ obj/
 Debug/
 Release/
 
-.idea/.idea.asp_net_postgres_sample.dir/.idea/encodings.xml
-.idea/.idea.asp_net_postgres_sample.dir/.idea/indexLayout.xml
-.idea/.idea.asp_net_postgres_sample.dir/.idea/vcs.xml
-.idea/.idea.asp_net/.idea/workspace.xml
+.idea/.idea.asp_net/.idea/.name
+.idea/.idea.asp_net/.idea/indexLayout.xml
+.idea/.idea.asp_net/.idea/projectSettingsUpdater.xml
+.idea/.idea.asp_net/.idea/vcs.xml

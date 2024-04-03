@@ -1,5 +1,4 @@
-namespace web_api;
-
+namespace web_api.Models;
 public class WeatherForecast
 {
     public DateOnly Date { get; set; }
