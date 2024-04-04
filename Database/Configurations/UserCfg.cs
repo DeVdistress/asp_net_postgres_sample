@@ -9,10 +9,10 @@ public class UserCfg : IEntityTypeConfiguration<web_api.Database.Models.UserMod>
         builder.ToTable("users");
         
         builder.HasKey(p => p.Id);
-        builder.Property(p => p.Id)
+        builder.Property(p=> p.Id)
             .HasColumnName("id")
             .HasColumnType("int")
-            .IsRequired();
+            .ValueGeneratedOnAdd();
         
         builder.Property(p => p.Age)
             .HasColumnName("age")

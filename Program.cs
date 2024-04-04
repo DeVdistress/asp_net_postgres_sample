@@ -29,7 +29,7 @@ app.UseAuthorization();
 
 app.MapControllers();
 
-var scope = app.Services.CreateScope();
-var db = scope.ServiceProvider.GetRequiredService<DatabaseContext>();
+//var scope = app.Services.CreateScope();
+//var db = scope.ServiceProvider.GetRequiredService<DatabaseContext>();
 
 app.Run();
